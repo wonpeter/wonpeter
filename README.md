@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, this is Peter
+
+I am a computer engineering student with a sepecialization in software.
 
 <!--
 **wonpeter/wonpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
