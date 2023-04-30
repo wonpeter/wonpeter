@@ -1,6 +1,7 @@
 ### Hi there, this is Peter
 
-I am a computer engineering student with a sepecialization in software. I am currently interested in product development and design!
+I am a computer engineering student with a sepecialization in software. 
+I am currently interested in product development and design! 🖥️🎨
 
 <!--
 **wonpeter/wonpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
