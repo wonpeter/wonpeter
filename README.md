@@ -1,6 +1,6 @@
 ### Hi there, this is Peter
 
-I am a computer engineering student with a sepecialization in software. 
+I am a computer engineering student with a specialization in software. 
 
 I am currently interested in product development and design! 
 🖥️🎨
